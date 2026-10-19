@@ -1,0 +1,26 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #e2dfd3;
+    text-align: center;  
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    color: #0b0b0b;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #0b0b0b;
+    margin-bottom: 20px;
+} 
+
+#picture1 {
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 2px;
+    background-color: rgb(22, 17, 15);
+}
